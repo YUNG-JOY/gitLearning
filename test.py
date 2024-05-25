@@ -1,1 +1,5 @@
-print("hello1")
+<<<<<<< HEAD
+print("hello")
+=======
+print("hello")
+>>>>>>> feature
