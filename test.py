@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-print("hello")
-=======
-print("hello")
->>>>>>> feature
+print("hello1")
+
